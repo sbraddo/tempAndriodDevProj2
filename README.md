@@ -37,6 +37,12 @@ Here's a walkthrough of implemented user stories:
 
 
 
+https://github.com/sbraddo/andriodDevProj2/assets/81383505/afe489be-a513-4ec6-958e-607d8a5cdf4a
+
+
+
+
+
 GIF created with ...  
 [Kap](https://getkap.co/) for macOS
 
