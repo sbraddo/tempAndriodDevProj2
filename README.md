@@ -30,10 +30,10 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-https://drive.google.com/file/d/1fXPOLkOcP9okAuWl9UyGolAd3nPMzKVD/view?usp=sharing 
+<blockquote class="imgur-embed-pub" lang="en" data-id="a/K7WS336" data-context="false" ><a href="//imgur.com/a/K7WS336"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
 
 <img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
-[dreamyWishlistSmall.gif.zip](https://github.com/sbraddo/andriodDevProj2/files/12581309/dreamyWishlistSmall.gif.zip)
+
 
 
 GIF created with ...  
