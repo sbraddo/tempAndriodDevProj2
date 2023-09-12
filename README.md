@@ -31,9 +31,9 @@ The following **additional** features are implemented:
 Here's a walkthrough of implemented user stories:
 
 https://drive.google.com/file/d/1fXPOLkOcP9okAuWl9UyGolAd3nPMzKVD/view?usp=sharing 
-[dreamyWishlistSmall.gif.zip](https://github.com/sbraddo/andriodDevProj2/files/12581304/dreamyWishlistSmall.gif.zip)
 
 <img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+[dreamyWishlistSmall.gif.zip](https://github.com/sbraddo/andriodDevProj2/files/12581309/dreamyWishlistSmall.gif.zip)
 
 
 GIF created with ...  
